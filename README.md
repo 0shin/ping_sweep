@@ -1,5 +1,5 @@
 # ping_sweep
-```````
+
 ```
 root@kali:~/OSCP/ping_sweep# python ping_sweep.py -h
 ping sweep
